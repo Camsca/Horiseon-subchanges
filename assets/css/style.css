@@ -67,6 +67,13 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+section h2 { 
+     margin-bottom: 20px;
+    font-size: 36px;
+
+}
+
+
 
 .search-engine-optimization,
 .online-reputation-management,
@@ -78,10 +85,7 @@ p {
     color: #ffffff;
     }
 
- header h2 {
-     margin-bottom: 20px;
-    font-size: 36px;
-}
+
     
 .search-engine-optimization img,
 .online-reputation-management img,
