@@ -7,4 +7,4 @@ This repository contains HTML and CSS codebase for the Horiseon SocialSolution w
 ## Usage
 The website provides information about various marketing services offered by Horiseon, including Search Engine Optimization, Online Reputation Management, and Social Media Marketing. Each service section includes relevant images and descriptions.
 
-![Horiseon-page-screenshot](https://github.com/Camsca/Horiseon-subchanges/assets/137108066/b2abd76b-29f7-4d18-a539-eba02c2c5c31)
+
